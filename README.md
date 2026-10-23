@@ -11,11 +11,8 @@ Based in **Pontevedra, Galicia, Spain**. Interested in conversations about **bac
 
 <p>
   <a href="mailto:josefanjulg@gmail.com"><img src="assets/badges/contact.svg" alt="Contact Jose by email"></a>
-  <a href="https://github.com/j0ssGZ/ai-python-test"><img src="assets/badges/code.svg" alt="Explore my engineering work"></a>
   <a href="https://dreamscape.198.244.233.153.sslip.io/"><img src="assets/badges/demo.svg" alt="Open the Dreamscape demo — sign-in screen"></a>
 </p>
-
-**Public engineering work:** [AI service · 160 tests](https://github.com/j0ssGZ/ai-python-test) · [Durable API · 58 tests](https://github.com/j0ssGZ/backend-python-test)
 
 ---
 
@@ -52,26 +49,6 @@ Based in **Pontevedra, Galicia, Spain**. Interested in conversations about **bac
 
 `Blender` · `Python` · `Procedural tooling` · `Visual development`<br>
 **Status:** visual and technical preproduction · [Explore the project ↗](projects/thomasin-wings.md)
-
----
-
-## Engineering you can inspect
-
-### [AI notification service](https://github.com/j0ssGZ/ai-python-test)
-
-Natural-language requests become notifications through a required AI extraction endpoint, conservative parsing and semantic validation. Separate worker pools, durable intermediate results, retries and crash recovery keep extraction and delivery independent.
-
-**160 tests passing on macOS and Linux**, including persistent Docker storage, with **200 additional SQLite concurrency repetitions**. The evaluation distinguishes HTTP success from semantically correct, provider-confirmed sends.
-
-[Source](https://github.com/j0ssGZ/ai-python-test) · [Architecture](https://github.com/j0ssGZ/ai-python-test/blob/main/docs/architecture.md) · [Outcome verification](https://github.com/j0ssGZ/ai-python-test/blob/main/docs/zero-notifications.md) · [Reliability investigation](https://github.com/j0ssGZ/ai-python-test/blob/main/docs/sqlite-concurrency.md)
-
-### [Durable notification API](https://github.com/j0ssGZ/backend-python-test)
-
-An asynchronous Python API built around an unreliable provider: durable activation, bounded workers, rate limiting, persisted retries, leases and stale-worker fencing. Tested recovery includes actual process termination and restart.
-
-**58 passing tests** with published load-test and eventual-delivery evidence. Both notification projects are **technical challenge implementations**, with their scope and delivery limitations documented.
-
-[Source](https://github.com/j0ssGZ/backend-python-test) · [Architecture](https://github.com/j0ssGZ/backend-python-test/blob/main/docs/architecture.md) · [Measured results](https://github.com/j0ssGZ/backend-python-test/blob/main/docs/validation.md)
 
 ---
 
