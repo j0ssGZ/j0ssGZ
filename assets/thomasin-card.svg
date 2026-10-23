@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title">
+  <title id="title">Thomasin Wings: Star Troopers — visual development and worldbuilding</title>
+  <defs><linearGradient id="bg"><stop stop-color="#0e2430"/><stop offset="1" stop-color="#143a43"/></linearGradient></defs>
+  <rect width="1200" height="180" rx="16" fill="url(#bg)"/>
+  <g fill="#d6dc9a" opacity=".5"><circle cx="862" cy="34" r="1.4"/><circle cx="984" cy="23" r="1.8"/><circle cx="1122" cy="152" r="1.5"/><circle cx="1160" cy="51" r="1"/></g>
+  <g transform="translate(1000 91)" stroke="#77cfcd" fill="none"><ellipse rx="124" ry="39" opacity=".15" transform="rotate(-25)"/><circle r="58" opacity=".15"/><path d="m-108 12 68-37 65-1 35-36 8 41 52 25-59 14-22 43-22-37-63 4Z" stroke-width="1.5" opacity=".65"/><path d="m-108 12 88-13 81 19m-101-43 20 24 59 24m-59-24 45-25" opacity=".45"/><path d="m-67 8 21-15 23 1-11 12Z" fill="#c5c781" fill-opacity=".24" stroke="#d8cf84"/><path d="m65 2 25 6m-30 3 24 6" stroke="#dcdb9a" stroke-width="2"/></g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="38" y="48" fill="#9bc8c9" font-size="14" letter-spacing="3">A UNIVERSE TAKING SHAPE</text>
+    <text x="35" y="101" fill="#eff4e9" font-size="43" font-weight="650" letter-spacing="-1">Thomasin Wings</text>
+    <text x="38" y="143" fill="#d8d68e" font-size="19" letter-spacing="3.5">STAR TROOPERS</text>
+  </g>
+</svg>
