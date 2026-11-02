@@ -25,12 +25,12 @@ Based in **Pontevedra, Galicia, Spain**. Interested in conversations about **bac
 `Vue` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Docker`<br>
 **Status:** early build · [Visit alerts.surf ↗](https://alerts.surf)
 
-### 🎣 [alerts.fishing](https://alerts.fishing)
+### 🦜 [English Parrot Lab](https://parrot.laialabs.com)
 
-**Fishing intelligence, starting with Galicia.** A product concept for turning local conditions into understandable fishing opportunities, with specifications for fishing windows, spots and responsible community features.
+**An English learning platform built around clear progression, accessible experiences and practical practice.** Part of **Laia Labs**, the product combines a structured B1/B2 learning journey, optional prerequisite guidance and personalized review recommendations, with AI tutoring as part of its evolving learning experience.
 
-`Product discovery` · `Domain modelling` · `Spec-driven development`<br>
-**Status:** product design; application not yet launched · [Project domain — not live yet ↗](https://alerts.fishing)
+`Go` · `Vue` · `TypeScript` · `PostgreSQL` · `Docker` · `PWA`<br>
+**Status:** active development · [Visit the application ↗](https://parrot.laialabs.com) · [Source code](https://github.com/j0ssGZ/english-parrot-lab)
 
 ### 🌙 [Le Joss's Dreamscape](https://dreamscape.198.244.233.153.sslip.io/)
 
