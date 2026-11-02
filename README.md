@@ -7,6 +7,8 @@
 
 I build APIs, web products and interactive worlds. My work connects **reliable backend engineering**, **carefully validated AI integrations** and **creative technology** — from ocean-inspired products to playable dreamscapes and science-fiction worlds.
 
+My personal brand, **[Laia Labs](https://laialabs.com)**, brings together the apps and products I build.
+
 Based in **Pontevedra, Galicia, Spain**. Interested in conversations about **backend, Python, applied AI and product engineering**.
 
 <p>
@@ -28,7 +30,7 @@ Based in **Pontevedra, Galicia, Spain**. Interested in conversations about **bac
 
 ### 🦜 [English Parrot Lab](https://parrot.laialabs.com)
 
-**An English learning platform built around clear progression, accessible experiences and practical practice.** Part of **Laia Labs**, the product combines a structured B1/B2 learning journey, optional prerequisite guidance and personalized review recommendations, with AI tutoring as part of its evolving learning experience.
+**An English learning platform built around clear progression, accessible experiences and practical practice.** Part of **[Laia Labs](https://laialabs.com)**, the product combines a structured B1/B2 learning journey, optional prerequisite guidance and personalized review recommendations, with AI tutoring as part of its evolving learning experience.
 
 `Go` · `Vue` · `TypeScript` · `PostgreSQL` · `Docker` · `PWA`<br>
 **Status:** active development · [Visit the application ↗](https://parrot.laialabs.com) · [Source code](https://github.com/j0ssGZ/english-parrot-lab)
