@@ -2,7 +2,7 @@
 
 **A browser-first world by Jose Fanjul · Prototype in development**
 
-[Open the web demo](https://dreamscape.198.244.233.153.sslip.io/) — the current public entry point is a sign-in screen.
+[Open the web demo](https://dreamscape.laialabs.com/) — the current public entry point is a sign-in screen.
 
 ![Dreamscape concept art: an imagined Pontevedra plaza with violet skies, floating architecture and physical object placement.](../assets/dreamscape-concept.png)
 
@@ -16,4 +16,4 @@ The working prototypes explore character movement, authored Galician locations, 
 
 **Tools:** Godot, GDScript, Python, Django, PostgreSQL, Docker and web deployment tooling.
 
-[Open demo](https://dreamscape.198.244.233.153.sslip.io/) · [Discuss the project](mailto:josefanjulg@gmail.com) · [Back to my profile](https://github.com/j0ssGZ)
+[Open demo](https://dreamscape.laialabs.com/) · [Discuss the project](mailto:josefanjulg@gmail.com) · [Back to my profile](https://github.com/j0ssGZ)

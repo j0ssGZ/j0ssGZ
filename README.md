@@ -14,7 +14,7 @@ Based in **Pontevedra, Galicia, Spain**. Interested in conversations about **bac
 <p>
   <a href="mailto:josefanjulg@gmail.com"><img src="assets/badges/contact.svg" alt="Contact Jose by email"></a>
   <a href="https://parrot.laialabs.com"><img src="assets/badges/parrot-beta.svg" alt="Open English Parrot Lab beta"></a>
-  <a href="https://dreamscape.198.244.233.153.sslip.io/"><img src="assets/badges/demo.svg" alt="Open the Dreamscape demo — sign-in screen"></a>
+  <a href="https://dreamscape.laialabs.com/"><img src="assets/badges/demo.svg" alt="Open the Dreamscape demo — sign-in screen"></a>
 </p>
 
 ---
@@ -35,14 +35,14 @@ Based in **Pontevedra, Galicia, Spain**. Interested in conversations about **bac
 `Go` · `Vue` · `TypeScript` · `PostgreSQL` · `Docker` · `PWA`<br>
 **Status:** active development · [Visit the application ↗](https://parrot.laialabs.com) · [Source code](https://github.com/j0ssGZ/english-parrot-lab)
 
-### 🌙 [Le Joss's Dreamscape](https://dreamscape.198.244.233.153.sslip.io/)
+### 🌙 [Le Joss's Dreamscape](https://dreamscape.laialabs.com/)
 
 <a href="projects/dreamscape.md"><img src="assets/dreamscape-card.svg" alt="Le Joss's Dreamscape — a world between familiar places and impossible possibilities." width="100%"></a>
 
 **A browser-first game where familiar places meet the impossible.** A stylized world rooted in recognizable Galician places, with exploration and physical object interaction at its heart. Built with Godot and GDScript; the account and persistence work uses Django and PostgreSQL.
 
 `Godot` · `GDScript` · `Django` · `PostgreSQL` · `Web`<br>
-**Status:** web prototype · [Open demo — sign-in required ↗](https://dreamscape.198.244.233.153.sslip.io/) · [Concept & project notes](projects/dreamscape.md)
+**Status:** web prototype · [Open demo — sign-in required ↗](https://dreamscape.laialabs.com/) · [Concept & project notes](projects/dreamscape.md)
 
 ### 🚀 [Thomasin Wings: Star Troopers](projects/thomasin-wings.md)
 
