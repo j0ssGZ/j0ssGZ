@@ -11,6 +11,7 @@ Based in **Pontevedra, Galicia, Spain**. Interested in conversations about **bac
 
 <p>
   <a href="mailto:josefanjulg@gmail.com"><img src="assets/badges/contact.svg" alt="Contact Jose by email"></a>
+  <a href="https://parrot.laialabs.com"><img src="assets/badges/parrot-beta.svg" alt="Open English Parrot Lab beta"></a>
   <a href="https://dreamscape.198.244.233.153.sslip.io/"><img src="assets/badges/demo.svg" alt="Open the Dreamscape demo — sign-in screen"></a>
 </p>
 
